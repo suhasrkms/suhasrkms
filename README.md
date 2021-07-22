@@ -1,7 +1,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ![Suhas's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhasrkms&hide=contribs&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhasrkms&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhasrkms&layout=compact)](https://github.com/suhasrkms/suhasrkms)
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
